@@ -54,7 +54,7 @@ text-align: center;
 
     --gap: 16px;
     --num-cols: 6;
-    --row-height: 250px;
+    --row-height: 200px;
 
     box-sizing: border-box;
     padding: var(--gap);
